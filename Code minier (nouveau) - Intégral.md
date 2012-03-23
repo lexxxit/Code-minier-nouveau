@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2012-03-24
 
 # PARTIE LEGISLATIVE
 
@@ -212,7 +212,14 @@ en Conseil d'Etat comme utiles à l'énergie atomique.
 
 Relèvent du régime légal des mines les gîtes renfermés dans le sein de la terre dont on peut extraire de l'énergie sous forme
 thermique, notamment par l'intermédiaire des eaux chaudes et des vapeurs souterraines qu'ils contiennent, dits " gîtes
-géothermiques ".
+géothermiques ". 
+
+Toutefois, ne relèvent pas du régime légal des mines les activités ou installations de géothermie utilisant les échanges
+d'énergie thermique avec le sous-sol lorsqu'elles ne présentent pas d'incidences significatives sur l'environnement et
+qu'elles ne nécessitent pas des mesures spécifiques de protection des intérêts mentionnés aux articles L. 161-1 et L. 161-2.
+Les activités ou installations concernées sont déterminées par décret en Conseil d'Etat, en fonction de la nature des
+ouvrages et des fluides caloporteurs utilisés et de seuils portant sur la profondeur et la puissance thermique des ouvrages,
+sur la température des milieux sollicités ainsi que sur les débits des eaux prélevées, réinjectées ou rejetées.
 
 **Liens relatifs à cet article**
 
@@ -228,13 +235,13 @@ géothermiques ".
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+	  - Loi n°2012-387 du 22 mars 2012 - art. 66
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code minier - art. 3 (Ab), alinéa 1, ecqc le classement dans les mines des activités géothermiques
+	  - Code minier (nouveau) - art. L161-1 (V)
 
 
 ###### Article L112-2
@@ -255,6 +262,34 @@ réglementaire.
 	**Anciens textes**:
 
 	  - Code minier - art. 3 (Ab), alinéa 2, ecqc les classement des gites géothermiques à haute ou à basse température
+
+
+###### Article L112-3
+
+Parmi les gîtes géothermiques à basse température, sont considérées comme des activités géothermiques de minime importance
+les activités de géothermie exercées dans le cadre du présent code qui utilisent les échanges d'énergie thermique avec le
+sous-sol, qui ne présentent pas de dangers ou d'inconvénients graves pour les intérêts mentionnés à l'article L. 161-1 et qui
+satisfont aux conditions fixées par décret en Conseil d'Etat sur la base des caractéristiques mentionnées au second alinéa de
+l'article L. 112-1. 
+
+Ce décret en Conseil d'Etat détermine également les cas où il peut être dérogé aux titres II, III, V et VI du présent livre
+pour les activités géothermiques de minime importance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°78-498 du 28 mars 1978 - art. 3 (V)
+	  - Décret n°2006-649 du 2 juin 2006 - art. 22-6 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 66
+
+	**Cite**:
+
+	  - Code minier (nouveau) - art. L112-1 (V)
+	  - Code minier (nouveau) - art. L161-1 (V)
 
 
 ### TITRE II : LA RECHERCHE
@@ -956,24 +991,15 @@ aux seuls gîtes géothermiques à haute température.
 Les dispositions de la présente section ne sont pas applicables aux gîtes géothermiques à basse température dont les eaux
 sont utilisées à des fins thérapeutiques.
 
-S'agissant des gîtes ne relevant pas de l'exception définie à l'alinéa précédent, un décret en Conseil d'Etat détermine les
-cas où il peut être dérogé aux dispositions de la présente section, en totalité ou partiellement, pour des exploitations de
-minime importance, compte tenu de leur profondeur et de leur débit calorifique.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 102 (Ab) ecqc les activités de recherche de gites géothermiques de minime importance
-	  - Code minier - art. 103 (Ab)
+	  - Loi n°2012-387 du 22 mars 2012 - art. 66
 
 
 ##### Sous-section 2 : Dispositions générales 
@@ -2403,23 +2429,15 @@ Les dispositions des articles L. 131-1, L. 131-3, L. 131-4 et celles du chapitre
 Les dispositions de la présente section ne sont pas applicables aux gîtes géothermiques à basse température dont les eaux
 sont utilisées à des fins thérapeutiques.
 
-S'agissant des gîtes ne relevant pas de l'exception définie à l'alinéa précédent, un décret en Conseil d'Etat détermine les
-cas où il peut être dérogé aux dispositions de la présente section, en totalité ou partiellement, pour des exploitations de
-minime importance, compte tenu de leur profondeur et de leur débit calorifique.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 103 (Ab)ecqc les dispositions des articles 99 à 102 qui ne sont pas applicables lorsque les eaux sont utilisées à des fins thérapeutiques
+	  - Loi n°2012-387 du 22 mars 2012 - art. 66
 
 
 ##### Sous-section 2 : Dispositions générales 
@@ -4712,9 +4730,9 @@ communication, de la mine et des autres mines, des caractéristiques essentielle
 maritime, et plus généralement à la protection des espaces naturels et des paysages, de la faune et de la flore, des
 équilibres biologiques et des ressources naturelles particulièrement des intérêts mentionnés aux articles L. 211-1, L. 331-1,
 L. 332-1 et L. 341-1 du code de l'environnement, à la conservation des intérêts de l'archéologie, particulièrement de ceux
-mentionnés aux articles L. 621-7 et L. 621-30-1 du code du patrimoine, ainsi que des intérêts agricoles des sites et des
-lieux affectés par les travaux et les installations afférents à l'exploitation. Ils doivent en outre assurer la bonne
-utilisation du gisement et la conservation de la mine.
+mentionnés aux articles L. 621-7 et L. 621-30 du code du patrimoine, ainsi que des intérêts agricoles des sites et des lieux
+affectés par les travaux et les installations afférents à l'exploitation. Ils doivent en outre assurer la bonne utilisation
+du gisement et la conservation de la mine.
 
 **Liens relatifs à cet article**
 
@@ -4754,23 +4772,18 @@ utilisation du gisement et la conservation de la mine.
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 79 (Ab), alinéa 1
-	  - Code minier - art. 85 (Ab), ecqc la bonne utilisation du gisement et la conservation de la mine
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L211-1 (V)
-	  - Code de l'environnement - art. L331-1 (V)
-	  - Code de l'environnement - art. L332-1 (V)
-	  - Code de l'environnement - art. L341-1 (V)
-	  - Code du patrimoine. - art. L621-30-1 (V)
-	  - Code du patrimoine. - art. L621-7 (V)
+	  - Code de l'environnement - art. L211-1
+	  - Code de l'environnement - art. L331-1
+	  - Code de l'environnement - art. L332-1
+	  - Code de l'environnement - art. L341-1
+	  - Code du patrimoine - art. L621-30-1
+	  - Code du patrimoine - art. L621-7
 
 
 ###### Article L161-2
@@ -5541,9 +5554,7 @@ Les travaux de recherches et d'exploitation de gîtes géothermiques sont soumis
 
 ###### Article L164-2
 
-Des décrets en Conseil d'Etat fixent les conditions et les modalités d'application du présent chapitre et les cas où il peut
-être dérogé en totalité ou en partie aux dispositions de l'article L. 164-1 pour des gîtes géothermiques de minime
-importance.
+Des décrets en Conseil d'Etat fixent les conditions et les modalités d'application du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -5551,17 +5562,13 @@ importance.
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 102 (Ab), ecqc les décrets en CE fixant les modalités d'application
+	  - Loi n°2012-387 du 22 mars 2012 - art. 66
 
 	**Cite**:
 
-	  - Code minier (nouveau) - art. L164-1 (V)
+	  - Code minier (nouveau) - art. L164-1
 
 
 #### Chapitre V : Dispositions propres aux stockages souterrains d'énergie calorifique
