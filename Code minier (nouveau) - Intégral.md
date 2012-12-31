@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2013-01-01
 
 # PARTIE LEGISLATIVE
 
@@ -496,7 +496,7 @@ des demandes.
 ###### Article L122-3
 
 Le permis exclusif de recherches est accordé, après mise en concurrence, par l'autorité administrative compétente pour une
-durée initiale maximale de cinq ans. L'instruction de la demande ne comporte pas d'enquête publique.
+durée initiale maximale de cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -504,13 +504,9 @@ durée initiale maximale de cinq ans. L'instruction de la demande ne comporte pa
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 9 (Ab), alinéa 1
+	  - Loi n°2012-1460 du 27 décembre 2012 - art. 4
 
 	**Cité par**:
 
