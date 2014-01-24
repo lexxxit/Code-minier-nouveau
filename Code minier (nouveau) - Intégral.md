@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-01-25
 
 # PARTIE LEGISLATIVE
 
@@ -10640,18 +10640,14 @@ existants.
 	  - Code minier - art. 107-1 (Ab)
 
 
-### TITRE IV : CONDITIONS GENERALES D'EXPLOITATION  ET SURVEILLANCE ADMINISTRATIVE DES CARRIERES
+### TITRE IV : SURVEILLANCE ADMINISTRATIVE DES CARRIÈRES
 
-#### Chapitre Ier : Conditions générales d'exploitation 
+#### Chapitre unique
 
 ###### Article L341-1
 
-L'exploitation des carrières soumises aux régimes prévus aux articles L. 512-1, L. 512-7 ou L. 512-8 du code de
-l'environnement doit respecter les contraintes et les obligations nécessaires à la protection des intérêts énoncés à
-l'article L. 511-1 de ce code et relatifs à la commodité du voisinage, à la santé, à la sécurité et à la salubrité publiques,
-à la nature, à l'environnement et aux paysages, à l'agriculture, à l'utilisation rationnelle de l'énergie, à la conservation
-des sites, des monuments et des éléments du patrimoine archéologique. Elle doit en outre assurer la bonne utilisation du
-gisement et sa conservation.
+Les carrières sont soumises, en ce qui concerne leur exploitation, aux conditions générales ainsi qu'à la surveillance et aux
+sanctions administratives qui leur sont applicables en vertu du titre Ier du livre V du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -10659,15 +10655,9 @@ gisement et sa conservation.
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L511-1 (V)
-	  - Code de l'environnement - art. L512-1 (V)
-	  - Code de l'environnement - art. L512-7 (V)
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
 
 	**Cité par**:
 
@@ -10675,186 +10665,6 @@ gisement et sa conservation.
 	  - Code minier (nouveau) - art. L342-1 (VT)
 	  - Code minier (nouveau) - art. L512-1 (M)
 	  - Code minier (nouveau) - art. L661-3 (V)
-
-
-#### Chapitre II : Surveillance administrative des carrières 
-
-###### Article L342-1
-
-La police des carrières a pour objet de faire respecter les contraintes, obligations et mesures générales s'imposant aux
-exploitations énumérées à l' article L. 341-1. Elle s'étend à tous les travaux de recherche ou d'exploitation de carrières,
-de haldes et terrils de mines et de déchets de carrières ainsi qu'à l'ensemble des installations de surface indispensables à
-leur poursuite.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-116 du 12 février 1999 - art. 1 (Ab)
-	  - Décret n°99-116 du 12 février 1999 - art. 2 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L515-6 (VD)
-
-	**Cite**:
-
-	  - Code minier (nouveau) - art. L341-1 (VT)
-
-
-###### Article L342-2
-
-Sans préjudice des dispositions qui sont applicables à leur exploitation en vertu du titre Ier du livre V du code de
-l'environnement, les carrières sont soumises à la surveillance et aux sanctions administratives définies au présent chapitre
-ainsi qu'aux articles L. 152-1 et L. 175-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
-
-	**Anciens textes**:
-
-	  - Code minier - art. 107 (VT), alinéa 1
-
-	**Cite**:
-
-	  - Code minier (nouveau) - art. L152-1 (V)
-	  - Code minier (nouveau) - art. L175-3 (V)
-
-
-###### Article L342-3
-
-Si les travaux de recherche ou d'exploitation d'une carrière sont de nature à compromettre sa conservation ou celle d'un
-autre établissement d'extraction de minerais, il y est pourvu par l'autorité administrative, au besoin d'office et aux frais
-de l'explorateur ou de l'exploitant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
-
-	**Anciens textes**:
-
-	  - Code minier - art. 107 (VT) alinéa 2
-
-	**Cité par**:
-
-	  - Code minier (nouveau) - art. L342-4 (VT)
-	  - Code minier (nouveau) - art. L512-1 (M)
-
-
-###### Article L342-4
-
-Sans préjudice de l'application du livre V du présent code, l'autorité administrative compétente en matière de surveillance
-administrative des carrières peut, lors de l'exécution d'une suspension, d'une interdiction ou d'une action d'office,
-autoriser, sur le fondement des dispositions de l'article L. 342-3, le recours à la force publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
-
-	**Anciens textes**:
-
-	  - Code minier - art. 107 (VT) alinéa 3
-
-	**Cite**:
-
-	  - Code minier (nouveau) - art. L342-3 (VT)
-
-
-###### Article L342-5
-
-Les agents compétents en matière de surveillance administrative des carrières peuvent visiter à tout moment les carrières,
-les haldes et terrils utilisés comme carrières et les déchets de carrières, faisant l'objet de travaux de prospection, de
-recherche ou d'exploitation, ainsi que toutes les installations indispensables à celles-ci.
-
-Ils peuvent en outre exiger la communication de documents de toute nature ainsi que la remise de tout échantillon et matériel
-nécessaires à l'accomplissement de leur mission.
-
-Les garanties énoncées à la section 2 du chapitre V du titre VII du livre Ier sont applicables aux visites effectuées dans le
-cadre de missions de surveillance administrative des carrières.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
-
-	**Anciens textes**:
-
-	  - Code minier - art. 107 (VT), alinéas 5 et 6
-
-
-###### Article L342-6
-
-Des décrets en Conseil d'Etat déterminent les mesures d'application des dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
-
-	**Anciens textes**:
-
-	  - Code minier - art. 119 (Ab)
 
 
 ### TITRE V : REGLEMENTATION SOCIALE
@@ -11372,9 +11182,9 @@ Les dispositions du présent livre s'appliquent aux stockages souterrains défin
 
 Outre les officiers et agents de police judiciaire agissant conformément au code de procédure pénale, sont habilités à
 constater les infractions aux dispositions législatives du présent code ainsi qu'aux dispositions prévues par les textes pris
-pour leur application les chefs des services régionaux déconcentrés chargés des mines et des carrières ainsi que les
-ingénieurs ou les techniciens placés sous leur autorité qu'ils habilitent à cet effet dans des conditions prévues par décret
-en Conseil d'Etat.
+pour leur application les chefs des services régionaux déconcentrés chargés des mines ainsi que les ingénieurs ou les
+techniciens placés sous leur autorité qu'ils habilitent à cet effet dans des conditions prévues par décret en Conseil
+d'Etat.   
 
 Lorsqu'ils exercent les attributions de l'inspecteur du travail dans les conditions prévues à l'article L. 8112-3 du code du
 travail, ils sont spécialement habilités à cet effet.
@@ -11384,19 +11194,13 @@ original au procureur de la République et en copie au représentant de l'Etat d
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°76-646 du 16 juillet 1976 - art. 5 (Ab)
-	  - Code minier - art. 140 (Ab), alinéas 1 et 2
-	  - Code minier - art. 217 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
 
 	**Cite**:
 
@@ -11658,7 +11462,7 @@ dépasse 10 mètres, sans justifier de la déclaration prévue à l'article L. 4
 
 9° De ne pas remettre les échantillons, documents et renseignements mentionnés au deuxième alinéa de l'article L. 175-1 et au
 deuxième alinéa de l'article L. 412-1 et, plus généralement, de faire obstacle à l'exercice des fonctions des autorités
-chargées de la police des mines et des carrières ; 
+chargées de la police des mines ; 
 
 10° De ne pas déclarer les informations mentionnées aux articles L. 411-3 et L. 412-2 dans les conditions prévues par ces
 articles ; 
@@ -11672,29 +11476,22 @@ minière dont la validité a expiré, dans les conditions fixées par l'article 
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 142 (VT), ecqc les titres miniers à l'exception des autorisations d'exploiter
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
 
 	**Cite**:
 
-	  - Code minier (nouveau) - art. L 121-3 (V)
+	  - Code minier (nouveau) - art. L121-3 (V)
 	  - Code minier (nouveau) - art. L122-1 (V)
 	  - Code minier (nouveau) - art. L153-1 (V)
 	  - Code minier (nouveau) - art. L153-2 (V)
 	  - Code minier (nouveau) - art. L161-1 (V)
-	  - Code minier (nouveau) - art. L161-2 (V)
 	  - Code minier (nouveau) - art. L163-1 (V)
 	  - Code minier (nouveau) - art. L172-2 (V)
-	  - Code minier (nouveau) - art. L175-1 (V)
 	  - Code minier (nouveau) - art. L411-1 (V)
 	  - Code minier (nouveau) - art. L411-3 (V)
 	  - Code minier (nouveau) - art. L412-1 (V)
-	  - Code minier (nouveau) - art. L412-2 (V)
 	  - Code minier (nouveau) - art. L413-3 (V)
 
 	**Cité par**:
