@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2014-01-27
+Version Consolidée au 2014-02-15
 
 # PARTIE LEGISLATIVE
 
@@ -11217,36 +11217,44 @@ original au procureur de la République et en copie au représentant de l'Etat d
 
 ###### Article L512-1
 
-I. ― Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 30 000 euros le fait :
+I. ― Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 30 000 euros le fait : 
 
 1° D'exploiter une mine ou de disposer d'une substance concessible sans détenir un titre d'exploitation ou une autorisation
-tels qu'ils sont respectivement prévus aux articles L. 131-1 et L. 131-2 ;
+tels qu'ils sont respectivement prévus aux articles L. 131-1 et L. 131-2 ; 
 
 2° De procéder à des travaux de recherches ou d'exploitation d'une mine sans se conformer aux mesures prescrites par
 l'autorité administrative sur le fondement de l'article L. 173-2 pour assurer la protection des intérêts mentionnés à
-l'article L. 161-1 ;
+l'article L. 161-1 ; 
 
 3° D'exploiter des gisements sans se conformer aux mesures prescrites par l'autorité administrative sur le fondement de
-l'article L. 173-3 pour assurer le respect des obligations mentionnées à l'article L. 161-2 ;
+l'article L. 173-3 pour assurer le respect des obligations mentionnées à l'article L. 161-2 ; 
 
 4° De ne pas mettre à la disposition du Commissariat à l'énergie atomique et aux énergies alternatives les substances utiles
-à l'énergie atomique dans les conditions prévues par les articles L. 121-4, L. 131-5 et L. 311-3 ;
+à l'énergie atomique dans les conditions prévues par les articles L. 121-4, L. 131-5 et L. 311-3 ; 
 
 5° De réaliser des travaux de recherches ou d'exploitation de mines ou de gîtes géothermiques sans l'autorisation prévue à
-l'article L. 162-4 ;
+l'article L. 162-4 ; 
 
 6° De ne pas avoir régulièrement déclaré, au terme de la validité du titre minier, l'arrêt définitif de tous les travaux ou
-de toutes les installations, dans les conditions prévues par les articles L. 163-1 à L. 163-8 ;
+de toutes les installations, dans les conditions prévues par les articles L. 163-1 à L. 163-8 ; 
 
 7° De s'opposer à la réalisation des mesures prescrites par le représentant de l'Etat dans le département par application de
-l'article L. 175-2 ;
+l'article L. 175-2 ; 
 
-8° De refuser d'obtempérer aux réquisitions prévues par les articles L. 175-3 ou L. 152-1 ;   
+8° De refuser d'obtempérer aux réquisitions prévues par les articles L. 175-3 ou L. 152-1 ; 
 
 9° D'exploiter une mine soumise à une obligation de constitution de garanties financières sans avoir constitué ou communiqué
-au représentant de l'Etat dans le département les garanties financières requises.
+au représentant de l'Etat dans le département les garanties financières requises ; 
 
-II. - Le 7° et le 8° du I ne sont pas applicables aux stockages souterrains mentionnés à l'article L. 211-2.
+10° (abrogé) ; 
+
+11° De détenir du mercure ou tout ou partie d'un concasseur ou d'un corps de pompe, depuis plus d'un mois, sans détenir le
+récépissé de déclaration prévu à l'article L. 621-13 ; 
+
+12° De transporter du mercure ou tout ou partie d'un concasseur ou d'un corps de pompe sans détenir la copie du récépissé de
+déclaration prévue à l'article L. 621-14. 
+
+II.-Le 7° et le 8° du I ne sont pas applicables aux stockages souterrains mentionnés à l'article L. 211-2.
 
 **Liens relatifs à cet article**
 
@@ -11264,13 +11272,25 @@ II. - Le 7° et le 8° du I ne sont pas applicables aux stockages souterrains me
 	  - Code minier (nouveau) - art. L621-8-1 (VD)
 	  - Code minier (nouveau) - art. L621-8-2 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
 	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+
+	**Cite**:
+
+	  - Code minier (nouveau) - art. L131-1 (V)
+	  - Code minier (nouveau) - art. L152-1 (V)
+	  - Code minier (nouveau) - art. L161-1 (V)
+	  - Code minier (nouveau) - art. L161-2 (V)
+	  - Code minier (nouveau) - art. L162-4 (V)
+	  - Code minier (nouveau) - art. L163-1 (V)
+	  - Code minier (nouveau) - art. L173-2 (V)
+	  - Code minier (nouveau) - art. L173-3 (V)
+	  - Code minier (nouveau) - art. L175-2 (V)
+	  - Code minier (nouveau) - art. L175-3 (V)
+	  - Code minier (nouveau) - art. L211-2 (V)
+	  - Code minier (nouveau) - art. L621-13 (V)
+	  - Code minier (nouveau) - art. L621-14 (V)
 
 
 ###### Article L512-2
