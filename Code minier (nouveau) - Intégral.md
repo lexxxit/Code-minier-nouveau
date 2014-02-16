@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2014-02-15
+Version Consolidée au 2014-02-17
 
 # PARTIE LEGISLATIVE
 
@@ -12865,31 +12865,27 @@ L. 611-3 à L. 611-16 et L. 611-17 à L. 611-28 ; ".
 
 Le I de l'article L. 512-1 est complété par les deux alinéas suivants : 
 
-" 11° De ne pas respecter les prescriptions relatives à l'arrêt des travaux prévues par l'autorisation d'exploitation ; 
+" 13° De ne pas respecter les prescriptions relatives à l'arrêt des travaux prévues par l'autorisation d'exploitation ; 
 
-12° De céder, d'amodier ou de louer une autorisation d'exploitation. "
+14° De céder, d'amodier ou de louer une autorisation d'exploitation. "
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°68-1181 du 30 décembre 1968 - art. 25 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+	  - Loi n°68-1181 du 30 décembre 1968 - art. 25 (Ab)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code minier - art. 141 (M), alinéas 12 et 13
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
 
 	**Cite**:
 
-	  - Code minier (nouveau) - art. L512-1 (VT)
+	  - Code minier (nouveau) - art. L512-1
 
 
 ###### Article L615-3
@@ -13160,6 +13156,22 @@ autorisation a été donnée est portée au procès-verbal.
 	  - Code minier (nouveau) - art. L615-1 (V)
 
 
+###### Article L621-8-1
+
+Dans les cas prévus aux 11° et 12° de l'article L. 512-1, le tribunal peut prononcer la confiscation du mercure, des
+concasseurs et des corps de pompes ayant servi à la commission de l'infraction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+
+	**Cite**:
+
+	  - Code minier (nouveau) - art. L512-1
+
+
 ##### Section 3 : Autres dispositions d'adaptation 
 
 ##### Sous-section 1 : Information du public 
@@ -13239,6 +13251,74 @@ soumise à concurrence si la superficie sollicitée est inférieure à un seuil 
 	**Anciens textes**:
 
 	  - Code minier - art. 9 (Ab)
+
+
+##### Section 4 : Matériels soumis à un régime particulier 
+
+###### Article L621-12
+
+La présente section est applicable à partir de vingt kilomètres au sud des routes nationales 1 et 2 et, entre Saint-Laurent-
+du-Maroni et Apatou, à partir de vingt kilomètres mesurés à partir du lit mineur du fleuve Maroni.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+
+	**Cité par**:
+
+	  - Code minier (nouveau) - art. L621-13 (VD)
+
+
+###### Article L621-13
+
+Dans le périmètre défini à l'article L. 621-12, la détention de mercure ou de tout ou partie d'un concasseur ou d'un corps de
+pompe est soumise à déclaration. 
+
+Dans les quinze jours suivant le début de la détention, la déclaration est faite par le détenteur du matériel auprès du
+préfet de Guyane ou par lettre recommandée avec demande d'avis de réception, dans les conditions et selon les modalités
+fixées par décret. Il en est délivré immédiatement récépissé. 
+
+Le récépissé ou sa copie doit pouvoir être présenté aux agents habilités qui contrôlent ces matériels. En l'absence de
+récépissé, le détenteur doit prouver par tous moyens qu'il ne détient pas le mercure, le concasseur ou le corps de pompe
+depuis plus d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-850 du 28 juillet 2014 - art. 1 (V)
+	  - Code minier (nouveau) - art. L512-1 (V)
+	  - Code minier (nouveau) - art. L621-14 (VD)
+
+	**Cite**:
+
+	  - Code minier (nouveau) - art. L621-12
+
+
+###### Article L621-14
+
+Le transporteur de mercure ou de tout ou partie d'un concasseur ou d'un corps de pompe doit être en possession d'une copie du
+récépissé de la déclaration prévue à l'article L. 621-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+
+	**Cité par**:
+
+	  - Code minier (nouveau) - art. L512-1 (V)
+
+	**Cite**:
+
+	  - Code minier (nouveau) - art. L621-13
 
 
 #### Chapitre II : Dispositions particulières à Mayotte 
