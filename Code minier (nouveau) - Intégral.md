@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2014-02-17
+Version Consolidée au 2015-01-01
 
 # PARTIE LEGISLATIVE
 
@@ -4210,9 +4210,9 @@ l'acquisition du sol en totalité ou en partie.
 ###### Article L153-8
 
 I. ― Le bénéficiaire d'un titre minier, à l'intérieur du périmètre défini par ce titre et, sous réserve, à l'extérieur de
-celui-ci, d'une déclaration d'utilité publique prononcée dans les formes prévues à la section 1 du chapitre Ier du titre Ier
-du code de l'expropriation pour cause d'utilité publique, peut également dans les limites énoncées au II de l'article L.
-153-3 être autorisé à : 
+celui-ci, d'une déclaration d'utilité publique prononcée dans les formes prévues au titre II du livre Ier du code de
+l'expropriation pour cause d'utilité publique, peut également dans les limites énoncées au II de l'article L. 153-3 être
+autorisé à : 
 
 1° Etablir à demeure, à une hauteur minimale fixée par décret en Conseil d'Etat au-dessus du sol, des câbles, canalisations
 ou engins transporteurs ainsi que les pylônes et mâts nécessaires à leur soutien ; 
@@ -4243,13 +4243,9 @@ rétablissant la couche arable et la voirie.
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 71-2 (VT)
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cité par**:
 
@@ -4259,7 +4255,7 @@ rétablissant la couche arable et la voirie.
 
 	**Cite**:
 
-	  - Code minier (nouveau) - art. L153-3 (V)
+	  - Code minier (nouveau) - art. L153-3
 
 
 ###### Article L153-9
@@ -4395,9 +4391,9 @@ recherches et d'exploitation, dont la réparation reste soumise au droit commun.
 
 Nonobstant les dispositions des articles L. 153-1 et L. 153-2 et si l'intérêt général l'exige, l'expropriation des immeubles
 nécessaires aux travaux et installations mentionnés aux articles L. 153-3 et L. 153-4 peut être poursuivie tant à l'intérieur
-qu'à l'extérieur du périmètre d'un titre minier, après une déclaration d'utilité publique prononcée dans les formes prévues à
-la section 1 du chapitre Ier du titre Ier du code de l'expropriation pour cause d'utilité publique, à la demande du détenteur
-de ce titre, pour son compte ou pour celui d'une personne ou société désignée par lui à cet effet.
+qu'à l'extérieur du périmètre d'un titre minier, après une déclaration d'utilité publique prononcée dans les formes prévues
+au titre II du livre Ier du code de l'expropriation pour cause d'utilité publique, à la demande du détenteur de ce titre,
+pour son compte ou pour celui d'une personne ou société désignée par lui à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -4405,13 +4401,9 @@ de ce titre, pour son compte ou pour celui d'une personne ou société désigné
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 73 (VT) alinéa 1
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cité par**:
 
@@ -4419,8 +4411,8 @@ de ce titre, pour son compte ou pour celui d'une personne ou société désigné
 
 	**Cite**:
 
-	  - Code minier (nouveau) - art. L153-1 (V)
-	  - Code minier (nouveau) - art. L153-3 (V)
+	  - Code minier (nouveau) - art. L153-1
+	  - Code minier (nouveau) - art. L153-3
 
 
 ###### Article L153-15
@@ -6194,7 +6186,7 @@ publique, lorsque les moyens de sauvegarde et de protection des populations s'av
 
 ###### Article L174-7
 
-La procédure prévue par les articles L. 15-6 à L. 15-8 du code de l'expropriation pour cause d'utilité publique est
+La procédure prévue par les articles L. 521-1 à L. 521-8 du code de l'expropriation pour cause d'utilité publique est
 applicable lorsque l'extrême urgence rend nécessaire l'exécution immédiate de mesures de sauvegarde.
 
 **Liens relatifs à cet article**
@@ -6203,17 +6195,13 @@ applicable lorsque l'extrême urgence rend nécessaire l'exécution immédiate d
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 95 (Ab), alinéa 2
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L15-6 (V)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L521-1
 
 
 ###### Article L174-8
@@ -8231,67 +8219,6 @@ La concession de stockage souterrain produits les effets définis aux articles L
 
 	  - Code minier (nouveau) - art. L132-11 (V)
 	  - Code minier (nouveau) - art. L132-8 (V)
-
-
-##### Section 4 : Redevances 
-
-###### Article L231-9
-
-Les titulaires des concessions de stockage sont assujettis au versement d'une redevance annuelle à l'Etat. Cette redevance
-est calculée : 
-
-1° Pour les stockages souterrains de gaz naturel, les stockages souterrains d'hydrocarbures gazeux et les stockages
-souterrains de produits chimiques gazeux à destination industrielle, en appliquant à chaque hectare de terrain compris dans
-le périmètre de stockage un tarif fixé par arrêté conjoint du ministre chargé des mines et du ministre chargé du budget, dans
-la limite de 20 euros par an et par hectare ; 
-
-2° Pour les stockages souterrains d'hydrocarbures liquides et les stockages souterrains de produits chimiques liquides à
-destination industrielle, en appliquant à chaque millier de mètres cubes de la capacité maximum du stockage un tarif
-dégressif par tranche de capacité de stockage, fixé par arrêté conjoint du ministre chargé des mines et du ministre chargé du
-budget, dans la limite de : 
-
-30 euros pour la capacité de stockage inférieure à 500 000 mètres cubes ; 
-
-20 euros pour la capacité de stockage comprise entre 500 000 et 2 000 000 mètres cubes ; 
-
-15 euros pour la capacité de stockage comprise entre 2 000 000 et 5 000 000 mètres cubes ; 
-
-10 euros pour la capacité de stockage supérieure à 5 000 000 mètres cubes ; 
-
-3° Pour les stockages souterrains d'hydrocarbures liquéfiés et les stockages souterrains de produits chimiques liquéfiés à
-destination industrielle, en appliquant à chaque millier de mètres cubes de la capacité maximum du stockage un tarif fixé par
-arrêté conjoint du ministre chargé des mines et du ministre chargé du budget, dans la limite de 60 euros. 
-
-Pour la première année, la redevance est due pro rata temporis à compter de la date de la notification du décret accordant la
-concession et elle est payable dans les trente jours suivant cette date. 
-
-En cas de retard dans le paiement, les sommes restant dues sont majorées des intérêts moratoires prévus en matière
-domaniale. 
-
-La perception de la redevance incombe aux comptables publics chargés des recettes domaniales de l'Etat dans les conditions
-prévues en matière domaniale à l'article L. 2321-1 du code général de la propriété des personnes publiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1654 du 29 décembre 2014 - art. 20
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L2321-1
-
-	**Anciens textes**:
-
-	  - Code minier - art. 104-4 (Ab)
 
 
 ##### Section 5 : Dispositions diverses 
