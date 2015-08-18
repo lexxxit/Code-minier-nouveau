@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2015-06-01
+Version Consolidée au 2015-08-19
 
 # PARTIE LEGISLATIVE
 
@@ -1065,12 +1065,14 @@ Le périmètre de protection peut être modifié ou supprimé dans les mêmes fo
 L'instruction de la demande d'autorisation de recherches prévue à l'article L. 124-4 comporte l'accomplissement d'une enquête
 publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement.
 
+L'avis d'enquête publique réalisée lors de l'instruction d'une demande d'autorisation de recherches de gîtes géothermiques à
+basse température est adressé aux propriétaires des habitations dans le rayon de 50 mètres mentionné à l'article L. 153-2.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°78-498 du 28 mars 1978 - art. 7 (V), alinéas 1 et 2
-	  - Code minier - art. 98 (Ab), alinéa 1, ecqc l'enquête publique
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 	**Cité par**:
 
@@ -1078,17 +1080,13 @@ publique réalisée conformément au chapitre III du titre II du livre Ier du co
 	  - Code minier (nouveau) - art. L124-7 (V)
 	  - Code minier (nouveau) - art. L124-8 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+	  - Loi n°2015-992 du 17 août 2015 - art. 146
 
 	**Cite**:
 
-	  - Code minier (nouveau) - art. L124-4 (V)
+	  - Code minier (nouveau) - art. L124-4
 
 
 ###### Article L124-7
@@ -4017,8 +4015,9 @@ les cours et les jardins.
 
 ###### Article L153-2
 
-Les puits, sondages de plus de 100 mètres et les galeries ne peuvent être ouverts dans un rayon de 50 mètres des habitations
-et des terrains compris dans les clôtures murées y attenantes, sans le consentement des propriétaires de ces habitations.
+Les puits, sondages de plus de 100 mètres et les galeries, à l'exception de ceux visant des gîtes géothermiques à basse
+température, ne peuvent être ouverts dans un rayon de 50 mètres des habitations et des terrains compris dans les clôtures
+murées y attenantes, sans le consentement des propriétaires de ces habitations.
 
 **Liens relatifs à cet article**
 
@@ -4026,13 +4025,9 @@ et des terrains compris dans les clôtures murées y attenantes, sans le consent
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 70 (Ab)
+	  - Loi n°2015-992 du 17 août 2015 - art. 146
 
 	**Cité par**:
 
@@ -5578,6 +5573,41 @@ Les travaux de recherches et d'exploitation de gîtes géothermiques sont soumis
 	**Cité par**:
 
 	  - Code minier (nouveau) - art. L164-2 (V)
+
+
+###### Article L164-1-1
+
+Les professionnels qui interviennent dans l'ouverture des travaux d'exploitation de gîtes géothermiques de minime importance
+pour l'étude de faisabilité au regard du contexte géologique de la zone d'implantation et pour la conception et la
+réalisation des forages sont couverts par une assurance destinée à réparer tout dommage immobilier ou tout ensemble de
+dommages immobiliers causés à des tiers. Cette assurance couvre également la surveillance de la zone d'implantation du forage
+et la réalisation des travaux nécessaires afin d'éliminer l'origine des dommages .   
+
+A l'ouverture des travaux d'exploitation, les professionnels sont en mesure de justifier qu'ils ont souscrit un contrat
+d'assurance les couvrant pour cette responsabilité et de mentionner le libellé et le montant de la couverture. 
+
+L'assurance de responsabilité obligatoire, définie au chapitre Ier du titre IV du livre II du code des assurances, ne saurait
+se substituer aux garanties d'assurance de responsabilité obligatoire prévues au premier alinéa du présent article. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment le montant minimal du plafond de
+garantie des contrats souscrits, leurs durées de garantie et les obligations que les professionnels sont tenus de respecter
+dans le cadre des travaux d'exploitation des gîtes géothermiques de minime importance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°78-498 du 28 mars 1978 - art. 18-1 (VD)
+	  - Décret n°78-498 du 28 mars 1978 - art. 18-2 (VD)
+	  - Décret n°78-498 du 28 mars 1978 - art. 18-3 (VD)
+	  - Décret n°78-498 du 28 mars 1978 - art. 18-4 (VD)
+	  - Décret n°78-498 du 28 mars 1978 - art. 18-5 (VD)
+	  - Décret n°78-498 du 28 mars 1978 - art. 18-6 (VD)
+	  - Décret n°2006-649 du 2 juin 2006 - art. 34-1 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 120
 
 
 ###### Article L164-2
