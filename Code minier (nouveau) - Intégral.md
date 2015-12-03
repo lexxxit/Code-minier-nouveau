@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-12-04
 
 # PARTIE LEGISLATIVE
 
@@ -577,6 +577,43 @@ préalable prévue à l'article L. 123-10.
 	  - Code minier (nouveau) - art. L122-3 (V)
 	  - Code minier (nouveau) - art. L123-10 (V)
 	  - Code minier (nouveau) - art. L123-8 (V)
+
+
+###### Article L123-2-1
+
+Sans préjudice de l'article L. 122-2, un permis exclusif de recherches d'hydrocarbures liquides ou gazeux ne peut être
+délivré si le demandeur n'a pas fourni la preuve qu'il a pris les dispositions adéquates pour assumer les charges qui
+découleraient de la mise en jeu de sa responsabilité en cas d'accident majeur et pour assurer l'indemnisation rapide des
+dommages causés aux tiers. Ces dispositions, qui peuvent prendre la forme de garanties financières, sont valides et
+effectives dès l'ouverture des travaux. 
+
+Lors de l'évaluation des capacités techniques et financières d'un demandeur sollicitant un permis exclusif de recherches
+d'hydrocarbures liquides ou gazeux, une attention particulière est accordée aux environnements marins et côtiers
+écologiquement sensibles, en particulier aux écosystèmes qui jouent un rôle important dans l'atténuation du changement
+climatique et l'adaptation à ce dernier, tels que : 
+
+1° Les marais salants ; 
+
+2° Les prairies sous-marines ; 
+
+3° Les zones marines protégées, comme les zones spéciales de conservation et les zones de protection spéciale au sens de l'
+article L. 414-1 du code de l'environnement 
+et les zones marines protégées convenues par l'Union européenne ou les Etats membres concernés dans le cadre d'accords
+internationaux ou régionaux auxquels ils sont parties. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article et détermine notamment la nature des
+garanties financières et les règles de fixation du montant desdites garanties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L414-1
+	  - Code minier (nouveau) - art. L122-2
 
 
 ###### Article L123-3
@@ -2112,6 +2149,42 @@ du code minier comporte une enquête publique réalisée conformément aux artic
 
 	  - Code minier (nouveau) - art. L111-1 (V)
 	  - Code minier (nouveau) - art. L133-11 (V)
+
+
+###### Article L133-2-1
+
+Sans préjudice de l'article L. 132-1, une concession d'hydrocarbures liquides ou gazeux ne peut être délivrée si le demandeur
+n'a pas fourni la preuve qu'il a pris les dispositions adéquates pour assumer les charges qui découleraient de la mise en jeu
+de sa responsabilité en cas d'accident majeur et pour assurer l'indemnisation rapide des dommages causés aux tiers. Ces
+dispositions, qui peuvent prendre la forme de garanties financières, sont valides et effectives dès l'ouverture des travaux. 
+
+Lors de l'évaluation des capacités techniques et financières d'un demandeur sollicitant une concession d'hydrocarbures
+liquides ou gazeux, une attention particulière est accordée aux environnements marins et côtiers écologiquement sensibles, en
+particulier aux écosystèmes qui jouent un rôle important dans l'atténuation du changement climatique et l'adaptation à ce
+dernier, tels que : 
+
+1° Les marais salants ; 
+
+2° Les prairies sous-marines ; 
+
+3° Les zones marines protégées, comme les zones spéciales de conservation et les zones de protection spéciale au sens de l'
+article L. 414-1 du code de l'environnement 
+et les zones marines protégées convenues par l'Union européenne ou les Etats membres concernés dans le cadre d'accords
+internationaux ou régionaux auxquels ils sont parties. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article et détermine notamment la nature des
+garanties financières et les règles de fixation du montant desdites garanties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L414-1
+	  - Code minier (nouveau) - art. L132-1
 
 
 ###### Article L133-3
@@ -5060,6 +5133,71 @@ des substances minérales ou fossiles mentionnées à l'article L. 111-1 portant
 	  - Code minier (nouveau) - art. L262-1 (V)
 
 
+###### Article L162-6-1
+
+Pour l'ouverture de travaux de recherches ou d'exploitation d'hydrocarbures liquides ou gazeux dans la mer territoriale, dans
+la zone économique exclusive ou sur le plateau continental, l'autorisation mentionnée à l'article L. 162-4 est subordonnée à
+l'évaluation et à l'acceptation par l'autorité administrative compétente du rapport sur les dangers majeurs ainsi que de la
+description du programme de vérification indépendante établis pour les installations définies au 19 de l'article 2 de la
+directive 2013/30/ UE du Parlement européen et du Conseil, du 12 juin 2013, relative à la sécurité des opérations pétrolières
+et gazières en mer et modifiant la directive 2004/35/ CE, sans préjudice de la responsabilité du demandeur. 
+
+Pour les autorisations d'ouverture de travaux mentionnées au premier alinéa du présent article, le rapport sur les dangers
+majeurs se substitue à l'étude de dangers prévue à l'article L. 162-4. 
+
+Les représentants des travailleurs sont consultés lors de l'élaboration du rapport sur les dangers majeurs. 
+
+Le rapport sur les dangers majeurs fait l'objet d'un réexamen approfondi par l'exploitant au moins tous les cinq ans, ou plus
+tôt lorsque l'autorité administrative compétente l'exige.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 3
+
+
+###### Article L162-6-2
+
+L'exploitant et le propriétaire d'une installation définie au 19 de l'article 2 de la directive 2013/30/ UE du Parlement
+européen et du Conseil, du 12 juin 2013, précitée et située dans la mer territoriale, dans la zone économique exclusive ou
+sur le plateau continental établissent conjointement un programme de vérification indépendante. 
+
+La description du programme de vérification indépendante est transmise à l'autorité administrative compétente lors de la
+demande d'une autorisation d'ouverture de travaux de recherches ou d'exploitation ainsi que lors de toute modification
+substantielle des opérations. 
+
+La vérification indépendante est réalisée par une entité extérieure ou par une entité interne qui n'est soumise ni au
+contrôle, ni à l'influence de l'exploitant ou du propriétaire de l'installation. 
+
+Le vérificateur indépendant est associé à la planification et à la préparation de toute modification substantielle de la
+notification d'opérations sur puits. 
+
+Les résultats de la vérification indépendante n'exonèrent ni l'exploitant, ni le propriétaire de l'installation ou, à défaut,
+le titulaire du titre minier de la responsabilité concernant le fonctionnement correct et sûr des équipements et des systèmes
+soumis à vérification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 4
+
+
+###### Article L162-6-3
+
+L'autorité administrative compétente peut exiger des entreprises enregistrées sur le territoire national qui mènent,
+directement ou par l'intermédiaire de filiales, des opérations de recherches ou d'exploitation d'hydrocarbures liquides ou
+gazeux en mer hors de l'Union européenne, en tant que titulaires d'une autorisation ou en tant qu'exploitants, de lui
+remettre un rapport sur les circonstances de tout accident majeur dans lequel elles ont été impliquées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 5
+
+
 ###### Article L162-7
 
 Si le demandeur présente simultanément la demande de concession en vue de l'exploitation de substances minérales autres que
@@ -6774,6 +6912,21 @@ décrets pris pour préserver les intérêts mentionnés à l'article L. 161-1 a
 
 	  - Code minier (nouveau) - art. L161-1 (V)
 	  - Code minier (nouveau) - art. L161-2 (V)
+
+
+###### Article L176-1-1
+
+Pour l'exercice des fonctions de surveillance administrative et de police des mines, l'exploitant assure le transport des
+inspecteurs, ainsi que celui des personnes agissant sous leur direction, et de leur équipement, pour leur permettre
+d'atteindre et de quitter les installations en mer ou les navires. En mer, l'exploitant assure également leur logement et
+leur restauration. A défaut, les frais supportés par l'autorité administrative compétente peuvent être recouvrés auprès de
+l'exploitant ou auprès du titulaire du titre minier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 6
 
 
 ###### Article L176-2
@@ -8595,9 +8748,12 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 ###### Article L261-1
 
-Les travaux de recherche et d'exploitation de stockage souterrain doivent respecter les obligations énoncées au chapitre Ier
-du titre VI du livre Ier du présent code, sous réserve des mesures relatives à la santé et à la sécurité des travailleurs
-prises en application du code du travail.
+Les stockages souterrains, lorsqu'ils ne sont pas soumis au titre Ier du livre V du code de l'environnement, sont soumis au
+présent titre. 
+
+Les travaux de recherche et d'exploitation de ces stockages souterrains doivent respecter les obligations énoncées au
+chapitre Ier du titre VI du livre Ier du présent code, sous réserve des mesures relatives à la santé et à la sécurité des
+travailleurs prises en application du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -8605,13 +8761,9 @@ prises en application du code du travail.
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 104-7 (Ab), ecqc les obligations générales pour la recherche, la création, l'exploitaton de stockages souterrains
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 10
 
 
 ###### Article L261-2
@@ -8807,8 +8959,7 @@ servitudes instituées en application de l'article L. 111-1-5 du code de l'urban
 
 ###### Article L264-2
 
-Les dispositions des articles L. 515-15 à L. 515-26 du code de l'environnement sont applicables aux stockages définis à
-l'article L. 211-2.
+Les dispositions des articles L. 515-15 à L. 515-26 du code de l'environnement sont applicables aux stockages souterrains.
 
 **Liens relatifs à cet article**
 
@@ -8816,18 +8967,14 @@ l'article L. 211-2.
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 104-3-1 (Ab)
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L515-15 (V)
-	  - Code minier (nouveau) - art. L211-2 (V)
+	  - Code de l'environnement - art. L515-15
+	  - Code minier (nouveau) - art. L211-2
 
 
 ##### Section 3 : Dispositions diverses 
@@ -8857,7 +9004,10 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 ###### Article L271-1
 
-La recherche, la création, les essais, l'aménagement et l'exploitation des stockages souterrains sont soumis à la
+Les stockages souterrains, lorsqu'ils ne sont pas soumis au titre Ier du livre V du code de l'environnement, sont soumis au
+présent titre. 
+
+La recherche, la création, les essais, l'aménagement et l'exploitation de ces stockages souterrains sont soumis à la
 surveillance administrative et à la police prévue par les dispositions du chapitre Ier du titre VII du livre Ier.
 
 **Liens relatifs à cet article**
@@ -8866,13 +9016,9 @@ surveillance administrative et à la police prévue par les dispositions du chap
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 104-6 (Ab), alinéa 1, ecqc la surveillance administrative et la police des stockages souterrains
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 10
 
 
 ###### Article L271-2
@@ -11697,13 +11843,39 @@ de la section 2 du chapitre III du titre III du livre Ier sont punies des peines
 	  - Code minier (nouveau) - art. L513-2 (V)
 
 
+###### Article L513-1-1
+
+Est puni d'une peine d'emprisonnement d'un an et d'une amende de 15 000 € le fait de procéder, sur le domaine public
+maritime, à des travaux de recherches d'hydrocarbures liquides ou gazeux sans détenir, d'une part, un permis exclusif de
+recherches ou une autorisation de prospection préalable et, d'autre part, une autorisation d'ouverture des travaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 7
+
+
+###### Article L513-1-2
+
+Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 30 000 € le fait de procéder, sur le domaine public
+maritime, à des travaux d'exploitation d'hydrocarbures liquides ou gazeux sans détenir, d'une part, une concession et,
+d'autre part, une autorisation d'ouverture des travaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 7
+
+
 ###### Article L513-2
 
-I. ― Outre les officiers et agents de police judiciaire agissant conformément au code de procédure pénale, sont habilités à
-constater les infractions aux dispositions législatives mentionnées à l'article L. 513-1 et aux dispositions prévues par les
-textes pris pour leur application, d'une part, ainsi que les infractions aux dispositions législatives du code général de la
-propriété des personnes publiques relatives au domaine public maritime et aux dispositions prévues par les textes pris pour
-leur application, d'autre part : 
+I. - Outre les officiers et agents de police judiciaire agissant conformément au code de procédure pénale, sont habilités à
+constater les infractions aux dispositions législatives mentionnées aux articles L. 513-1 à L. 513-1-2 et aux dispositions
+prévues par les textes pris pour leur application, d'une part, ainsi que les infractions aux dispositions législatives du
+code général de la propriété des personnes publiques relatives au domaine public maritime et aux dispositions prévues par les
+textes pris pour leur application, d'autre part : 
 
 1° Les administrateurs des affaires maritimes ; 
 
@@ -11738,7 +11910,7 @@ la République.
 
 	**Modifié par**:
 
-	  - Loi n°2013-431 du 28 mai 2013 - art. 31
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 7
 
 	**Cite**:
 
@@ -11799,25 +11971,70 @@ relative à l'exploration du plateau continental et à l'exploitation de ses res
 
 ###### Article L513-5
 
-Les peines dont sont punies les activités de recherche ou d'exploitation effectuées sur le plateau continental et dans la
-zone économique exclusive en infraction aux dispositions qui leur sont applicables, la procédure de constatation des
-infractions et les agents qui sont habilités à y procéder figurent aux articles 24 à 27,29 à 32 et au second alinéa de
-l'article 36 de la loi n° 68-1181 du 30 décembre 1968 relative à l'exploration du plateau continental et à l'exploitation de
-ses ressources naturelles.
+Sans préjudice des articles L. 513-5-1 et L. 513-5-2, les peines dont sont punies les activités de recherche ou
+d'exploitation effectuées sur le plateau continental et dans la zone économique exclusive en infraction aux dispositions qui
+leur sont applicables, la procédure de constatation des infractions et les agents qui sont habilités à y procéder figurent
+aux articles 24 à 27,29 à 32 et au second alinéa de l'article 36 de la loi n° 68-1181 du 30 décembre 1968 relative à
+l'exploration du plateau continental et à l'exploitation de ses ressources naturelles.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°68-1181 du 30 décembre 1968 (V)
+	  - Loi n°68-1181 du 30 décembre 1968
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
+	**Modifié par**:
+
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 7
+
+
+###### Article L513-5-1
+
+Par dérogation à l'
+article 24 de la loi n° 68-1181 du 30 décembre 1968
+relative à l'exploration du plateau continental et à l'exploitation de ses ressources naturelles, est puni d'une peine
+d'emprisonnement d'un an et d'une amende de 15 000 € le fait de procéder, sur le plateau continental ou dans la zone
+économique exclusive, à des travaux de recherches d'hydrocarbures liquides ou gazeux sans détenir, d'une part, un permis
+exclusif de recherches ou une autorisation de prospection préalable et, d'autre part, une autorisation d'ouverture des
+travaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°68-1181 du 30 décembre 1968 - art. 24
+
 	**Créé par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 7
+
+	**Cité par**:
+
+	  - Code minier (nouveau) - art. L513-5 (V)
+
+
+###### Article L513-5-2
+
+Par dérogation à l'
+article 24 de la loi n° 68-1181 du 30 décembre 1968
+relative à l'exploration du plateau continental et à l'exploitation de ses ressources naturelles, est puni d'une peine
+d'emprisonnement de deux ans et d'une amende de 30 000 € le fait de procéder, sur le plateau continental ou dans la zone
+économique exclusive, à des travaux d'exploitation d'hydrocarbures liquides ou gazeux sans détenir, d'une part, une
+concession et, d'autre part, une autorisation d'ouverture des travaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°68-1181 du 30 décembre 1968 - art. 24
+
+	**Créé par**:
+
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 7
 
 
 ##### Section 4 : Dispositions applicables aux gîtes géothermiques 
