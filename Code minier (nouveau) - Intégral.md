@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-08-10
 
 # PARTIE LEGISLATIVE
 
@@ -1860,6 +1860,39 @@ L'acte de concession fixe le montant de la redevance tréfoncière due par le ti
 	**Cité par**:
 
 	  - Code de l'environnement - art. L229-45 (V)
+
+
+###### Article L132-15-1
+
+Pour les gisements en mer situés sur le plateau continental ou dans la zone économique exclusive, les titulaires de
+concessions autres que celles de mines d'hydrocarbures liquides ou gazeux sont tenus de payer annuellement une redevance
+calculée sur la production. Cette redevance est due au jour de la première vente de la ou des substances extraites à
+l'intérieur du périmètre qui délimite la concession et est affectée à l'Agence française pour la biodiversité. 
+
+Le calcul de la redevance tient compte des avantages de toute nature procurés au titulaire de la concession, de l'impact
+environnemental des activités concernées ainsi que du risque pour l'environnement, de la nature des produits, du continent au
+large duquel est situé le gisement, de la profondeur d'eau, de la distance du gisement par rapport à la côte du territoire
+concerné et du montant des dépenses consenties pendant la période d'exploration et de développement. Cette redevance est
+majorée si les activités concernées s'exercent dans le périmètre d'une aire marine protégée au sens de l'article L. 334-1 du
+code de l'environnement. 
+
+Les articles L. 2321-1, L. 2321-4, L. 2321-5, L. 2322-1, L. 2322-4, L. 2323-1, L. 2323-2, L. 2323-4, L. 2323-4-1, L. 2323-6,
+L. 2323-8 et L. 2323-11 à L. 2323-13 du code général de la propriété des personnes publiques, relatifs à la constatation, à
+la prescription, au paiement et au recouvrement des redevances du domaine, s'appliquent à cette redevance. 
+
+Un décret fixe les modalités de calcul, de répartition, d'affectation et d'utilisation du produit de cette redevance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 95
+
+	**Cité par**:
+
+	  - Décret n°2017-32 du 12 janvier 2017 - art. 1 (V)
+	  - Décret n°2017-32 du 12 janvier 2017 - art. 11 (V)
+	  - Décret n°2017-32 du 12 janvier 2017 - art. 13 (V)
 
 
 ###### Article L132-16
@@ -7066,8 +7099,8 @@ exploitations souterraines de mines est considéré comme temps de travail effec
 
 ###### Article L191-2
 
-Un décret en Conseil d'Etat, dans les conditions prévues aux articles L. 3121-52 et L. 3122-46 du code du travail, détermine
-les modalités d'application de l'article L. 191-1, notamment le mode de calcul de la durée de présence.
+Un décret en Conseil d'Etat, dans les conditions prévues à l'article L. 3121-67 du code du travail, détermine les modalités
+d'application de l'article L. 191-1, notamment le mode de calcul de la durée de présence.
 
 **Liens relatifs à cet article**
 
@@ -7075,19 +7108,14 @@ les modalités d'application de l'article L. 191-1, notamment le mode de calcul 
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 209 (Ab)
+	  - Loi n°2016-1088 du 8 août 2016 - art. 8 (V)
 
 	**Cite**:
 
-	  - Code du travail - art. L3121-52 (V)
-	  - Code du travail - art. L3122-46 (V)
-	  - Code minier (nouveau) - art. L191-1 (V)
+	  - Code du travail - art. L3121-67 (V)
+	  - Code minier (nouveau) - art. L191-1
 
 
 #### Chapitre II : Délégués mineurs 
@@ -11285,9 +11313,9 @@ Outre les officiers et agents de police judiciaire agissant conformément au cod
 constater les infractions aux dispositions législatives du présent code ainsi qu'aux dispositions prévues par les textes pris
 pour leur application les chefs des services régionaux déconcentrés chargés des mines ainsi que les ingénieurs ou les
 techniciens placés sous leur autorité qu'ils habilitent à cet effet dans des conditions prévues par décret en Conseil
-d'Etat.   
+d'Etat. 
 
-Lorsqu'ils exercent les attributions de l'inspecteur du travail dans les conditions prévues à l'article L. 8112-3 du code du
+Lorsqu'ils exercent les attributions de l'inspecteur du travail dans les conditions prévues à l'article L. 8112-1 du code du
 travail, ils sont spécialement habilités à cet effet.
 
 Les infractions sont constatées par des procès-verbaux. Tout procès-verbal constatant une de ces infractions est adressé en
@@ -11301,11 +11329,11 @@ original au procureur de la République et en copie au représentant de l'Etat d
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
+	  - Loi n°2016-1088 du 8 août 2016 - art. 116
 
 	**Cite**:
 
-	  - Code du travail - art. L8112-3
+	  - Code du travail - art. L8112-3 (Ab)
 
 	**Cité par**:
 
