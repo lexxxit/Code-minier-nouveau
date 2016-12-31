@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2016-12-10
+Version Consolidée au 2017-01-01
 
 # PARTIE LEGISLATIVE
 
@@ -13132,7 +13132,7 @@ environnementales et les objectifs à atteindre en matière de remise en état d
 
 Le projet de schéma départemental d'orientation minière est élaboré par le représentant de l'Etat dans le département. 
 
-Le projet de schéma est soumis à une évaluation environnementale conformément à l'article L. 122-6 du code de
+Le projet de schéma est soumis à une évaluation environnementale conformément à l'article L. 122-4 du code de
 l'environnement. Il est mis à la disposition du public pendant une durée de deux mois. Le public est avisé des modalités de
 consultation au moins quinze jours avant le début de la mise à disposition. 
 
@@ -13153,18 +13153,14 @@ l'article L. 122-10 du code de l'environnement à la disposition du public aprè
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-	**Anciens textes**:
-
-	  - Code minier - art. 68-20-1 (VT), alinéas 2, 3, 4, 5 ecqc l'approbation du SDOM et 7
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 4
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L122-10 (V)
-	  - Code de l'environnement - art. L122-6 (V)
+	  - Code de l'environnement - art. L122-10
+	  - Code de l'environnement - art. L122-4
 
 	**Cité par**:
 
