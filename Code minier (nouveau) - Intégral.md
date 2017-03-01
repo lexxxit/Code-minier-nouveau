@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-02
 
 # PARTIE LEGISLATIVE
 
@@ -11294,8 +11294,9 @@ Les dispositions du présent livre s'appliquent aux stockages souterrains défin
 Outre les officiers et agents de police judiciaire agissant conformément au code de procédure pénale, sont habilités à
 constater les infractions aux dispositions législatives du présent code ainsi qu'aux dispositions prévues par les textes pris
 pour leur application les chefs des services régionaux déconcentrés chargés des mines ainsi que les ingénieurs ou les
-techniciens placés sous leur autorité qu'ils habilitent à cet effet dans des conditions prévues par décret en Conseil
-d'Etat. 
+techniciens placés sous leur autorité qu'ils habilitent à cet effet dans des conditions prévues par décret en Conseil d'Etat
+et les inspecteurs de l'environnement sur le seul territoire du Parc amazonien de Guyane, après habilitation expresse du
+procureur de la République de Cayenne. 
 
 Lorsqu'ils exercent les attributions de l'inspecteur du travail dans les conditions prévues à l'article L. 8112-1 du code du
 travail, ils sont spécialement habilités à cet effet.
@@ -11311,11 +11312,11 @@ original au procureur de la République et en copie au représentant de l'Etat d
 
 	**Modifié par**:
 
-	  - Loi n°2016-1088 du 8 août 2016 - art. 116
+	  - Loi n°2017-256 du 28 février 2017 - art. 91
 
 	**Cite**:
 
-	  - Code du travail - art. L8112-3 (Ab)
+	  - Code du travail - art. L8112-3
 
 	**Cité par**:
 
@@ -13219,6 +13220,20 @@ d'exploitation et d'environnement propres à chaque zone.
 	  - Code minier (nouveau) - art. L621-2 (V)
 
 
+###### Article L621-4-1
+
+Six mois après la délivrance d'une autorisation d'ouverture de travaux ou d'une autorisation d'exploitation portant sur une
+substance aurifère, un prélèvement représentatif de deux échantillons minimum de minerai aurifère est réalisé par
+l'exploitant sous la responsabilité et le contrôle de la police des mines. Ces échantillons sont mis sous scellés. Ces
+prélèvements ne donnent pas lieu à dédommagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-256 du 28 février 2017 - art. 82
+
+
 ###### Article L621-5
 
 Le schéma d'aménagement régional et le schéma directeur d'aménagement et de gestion des eaux prennent en compte le schéma
@@ -13342,6 +13357,26 @@ concasseurs et des corps de pompes ayant servi à la commission de l'infraction.
 	**Cite**:
 
 	  - Code minier (nouveau) - art. L512-1
+
+
+###### Article L621-8-2
+
+En Guyane, dans le cadre exclusif du dispositif de lutte contre l'orpaillage illégal, outre les officiers de police
+judiciaire, les agents de police judiciaire sont habilités, sous le contrôle desdits officiers de police judiciaire, à saisir
+dans le cadre de leurs opérations tout bien, matériel ou installation ayant servi, directement ou indirectement, à la
+commission des infractions mentionnées aux articles L. 512-1, L. 512-2 et L. 512-5, ainsi que tout produit provenant de
+celles-ci, et à procéder à la destruction de matériel dans les conditions prévues à l'article L. 512-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-256 du 28 février 2017 - art. 90
+
+	**Cite**:
+
+	  - Code minier (nouveau) - art. L512-1 (V)
+	  - Code minier (nouveau) - art. L512-9 (V)
 
 
 ##### Section 3 : Autres dispositions d'adaptation 
